@@ -1,4 +1,4 @@
 email:
   476371364@qq.com
-mysql
+mysql:
   url:jdbc:mysql://127.0.0.1:3306/cloud?characterEncoding=utf8&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&useSSL=false
