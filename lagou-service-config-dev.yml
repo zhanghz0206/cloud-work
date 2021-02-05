@@ -1,3 +1,5 @@
 zhz:
   email: 476371364@qq.com
-
+ip:
+  minute: 1
+  maxcount: 20
